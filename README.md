@@ -7,6 +7,8 @@ Welcome to the Data Science Curriculum Notebooks repository! This repository con
 You can find the following notebooks in this repository:
 - [Notebook 1: Simple Linear Regresion](01-simple-linear-regression.ipynb)
 - [Notebook 2: Multiple Linear Regresion](02-multiple-linear-regression.ipynb)
+- [Notebook 3: Regularized Linear Regresion](03-regularized-linear-regression.ipynb)
+- [Notebook 4: Logistic Regresion](04-logistic-regression.ipynb)
 
 Feel free to explore and review these notebooks at your own pace.
 
