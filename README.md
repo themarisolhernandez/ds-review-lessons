@@ -5,11 +5,12 @@ Welcome to the Data Science Curriculum Notebooks repository! This repository con
 ## Notebooks
 
 You can find the following notebooks in this repository:
-- [Notebook 0: Descriptive Statistics](00-descriptive-statistics.ipynb)
-- [Notebook 1: Simple Linear Regression](01-simple-linear-regression.ipynb)
-- [Notebook 2: Multiple Linear Regression](02-multiple-linear-regression.ipynb)
-- [Notebook 3: Regularized Linear Regression](03-regularized-linear-regression.ipynb)
-- [Notebook 4: Logistic Regression](04-logistic-regression.ipynb)
+- [Notebook 1: Descriptive Statistics](01-descriptive-statistics.ipynb)
+- [Notebook 2: Hypothesis Testing](02-hypothesis-testing.ipynb)
+- [Notebook 3: Simple Linear Regression](03-simple-linear-regression.ipynb)
+- [Notebook 4: Multiple Linear Regression](04-multiple-linear-regression.ipynb)
+- [Notebook 5: Regularized Linear Regression](05-regularized-linear-regression.ipynb)
+- [Notebook 6: Logistic Regression](06-logistic-regression.ipynb)
 
 Feel free to explore and review these notebooks at your own pace.
 
