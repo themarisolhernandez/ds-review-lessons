@@ -11,6 +11,7 @@ You can find the following notebooks in this repository:
 - [Notebook 4: Multiple Linear Regression](04-multiple-linear-regression.ipynb)
 - [Notebook 5: Regularized Linear Regression](05-regularized-linear-regression.ipynb)
 - [Notebook 6: Logistic Regression](06-logistic-regression.ipynb)
+- [Notebook 7: Decision Trees](07-decision-trees.ipynb)
 
 Feel free to explore and review these notebooks at your own pace.
 
