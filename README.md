@@ -13,6 +13,8 @@ You can find the following notebooks in this repository:
 - [Notebook 6: Logistic Regression](06-logistic-regression.ipynb)
 - [Notebook 7: Decision Trees](07-decision-trees.ipynb)
 - [Notebook 8: Random Forest](08-random-forest.ipynb)
+- [Notebook 9: Boosting Algorithms](09-boosting-algorithms.ipynb)
+- [Notebook 10: Naive Bayes Algorithm](10-naive-bayes-algorithm.ipynb)
 
 Feel free to explore and review these notebooks at your own pace.
 
