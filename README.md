@@ -16,6 +16,7 @@ You can find the following notebooks in this repository:
 - [Notebook 9: Boosting Algorithms](09-boosting-algorithms.ipynb)
 - [Notebook 10: Naive Bayes Algorithm](10-naive-bayes-algorithm.ipynb)
 - [Notebook 11: K-nearest Neighbors](11-k-nearest-neighbors.ipynb)
+- [Notebook 12: Unsupervised Learning](12-unsupervised-learning.ipynb)
 
 Feel free to explore and review these notebooks at your own pace.
 
