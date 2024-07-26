@@ -17,6 +17,9 @@ You can find the following notebooks in this repository:
 - [Notebook 10: Naive Bayes Algorithm](10-naive-bayes-algorithm.ipynb)
 - [Notebook 11: K-nearest Neighbors](11-k-nearest-neighbors.ipynb)
 - [Notebook 12: Unsupervised Learning](12-unsupervised-learning.ipynb)
+- [Notebook 13: Time Series](13-time-series.ipynb)
+- [Notebook 14: Intro to Deep Learning](14-intro-to-deep-learning.ipynb)
+- [Notebook 15: Natural Language Processing](15-natural-language-processing.ipynb)
 
 Feel free to explore and review these notebooks at your own pace.
 
