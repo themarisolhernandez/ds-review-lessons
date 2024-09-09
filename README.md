@@ -9,6 +9,7 @@ You can find the following notebooks in this repository:
 - [Notebook 1: Python for Data Science](01-python-for-data-science.ipynb)
 - [Notebook 2: Intro. to NumPy](02-intro-to-numpy.ipynb)
 - [Notebook 3: Intro. to Pandas](03-intro-to-pandas.ipynb)
+- [Notebook 4: Intro. to Matplotlib](04-intro-to-matplotlib.ipynb)
 
 Feel free to explore and review these notebooks at your own pace.
 
