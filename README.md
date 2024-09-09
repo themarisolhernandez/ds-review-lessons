@@ -5,21 +5,7 @@ Welcome to the Data Science Curriculum Notebooks repository! This repository con
 ## Notebooks
 
 You can find the following notebooks in this repository:
-- [Notebook 1: Descriptive Statistics](01-descriptive-statistics.ipynb)
-- [Notebook 2: Hypothesis Testing](02-hypothesis-testing.ipynb)
-- [Notebook 3: Simple Linear Regression](03-simple-linear-regression.ipynb)
-- [Notebook 4: Multiple Linear Regression](04-multiple-linear-regression.ipynb)
-- [Notebook 5: Regularized Linear Regression](05-regularized-linear-regression.ipynb)
-- [Notebook 6: Logistic Regression](06-logistic-regression.ipynb)
-- [Notebook 7: Decision Trees](07-decision-trees.ipynb)
-- [Notebook 8: Random Forest](08-random-forest.ipynb)
-- [Notebook 9: Boosting Algorithms](09-boosting-algorithms.ipynb)
-- [Notebook 10: Naive Bayes Algorithm](10-naive-bayes-algorithm.ipynb)
-- [Notebook 11: K-nearest Neighbors](11-k-nearest-neighbors.ipynb)
-- [Notebook 12: Unsupervised Learning](12-unsupervised-learning.ipynb)
-- [Notebook 13: Time Series](13-time-series.ipynb)
-- [Notebook 14: Intro to Deep Learning](14-intro-to-deep-learning.ipynb)
-- [Notebook 15: Natural Language Processing](15-natural-language-processing.ipynb)
+- [Notebook 0: Introduction](00-introduction.ipynb)
 
 Feel free to explore and review these notebooks at your own pace.
 
