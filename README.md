@@ -6,6 +6,8 @@ Welcome to the Data Science Curriculum Notebooks repository! This repository con
 
 You can find the following notebooks in this repository:
 - [Notebook 0: Introduction](00-introduction.ipynb)
+- [Notebook 1: Python for Data Science](01-python-for-data-science.ipynb)
+- [Notebook 2: Intro. to NumPy](02-intro-to-numpy.ipynb)
 
 Feel free to explore and review these notebooks at your own pace.
 
