@@ -2,6 +2,8 @@
 
 Welcome to the Data Science Curriculum Notebooks repository! This repository contains a collection of Jupyter notebooks covering various topics in the field of data science. These notebooks are designed to supplement your learning and provide hands-on practice with real-world datasets and examples.
 
+This is my Partner's addition to the READMe.md
+
 ## Notebooks
 
 You can find the following notebooks in this repository:
