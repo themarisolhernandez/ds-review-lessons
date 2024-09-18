@@ -14,6 +14,7 @@ You can find the following notebooks in this repository:
 - [Notebook 4: Intro. to Matplotlib](04-intro-to-matplotlib.ipynb)
 - [Notebook 5: Calculus and L. Algebra](05-calculus-and-l-algebra.ipynb)
 - [Notebook 6: GitHub](06-github.ipynb)
+- [Notebook 7: Probability](07-probability.ipynb)
 
 Feel free to explore and review these notebooks at your own pace.
 
