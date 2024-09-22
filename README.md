@@ -15,6 +15,7 @@ You can find the following notebooks in this repository:
 - [Notebook 5: Calculus and L. Algebra](05-calculus-and-l-algebra.ipynb)
 - [Notebook 6: GitHub](06-github.ipynb)
 - [Notebook 7: Probability](07-probability.ipynb)
+- [Notebook 8: Descriptive Statistics](08-descriptive-statistics.ipynb)
 
 Feel free to explore and review these notebooks at your own pace.
 
