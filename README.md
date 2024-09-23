@@ -16,6 +16,7 @@ You can find the following notebooks in this repository:
 - [Notebook 6: GitHub](06-github.ipynb)
 - [Notebook 7: Probability](07-probability.ipynb)
 - [Notebook 8: Descriptive Statistics](08-descriptive-statistics.ipynb)
+- [Notebook 9: Random Variables](09-random-variables.ipynb)
 
 Feel free to explore and review these notebooks at your own pace.
 
