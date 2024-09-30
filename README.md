@@ -17,6 +17,7 @@ You can find the following notebooks in this repository:
 - [Notebook 9: Random Variables](09-random-variables.ipynb)
 - [Notebook 10: Hypothesis Testing](10-hypothesis-testing.ipynb)
 - [Notebook 11: Algorithm Optimization](11-algorithm-optimization.ipynb)
+- [Notebook 12: M.L. Ops](12-ml-ops.ipynb)
 
 Feel free to explore and review these notebooks at your own pace.
 
