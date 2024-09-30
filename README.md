@@ -2,8 +2,6 @@
 
 Welcome to the Data Science Curriculum Notebooks repository! This repository contains a collection of Jupyter notebooks covering various topics in the field of data science. These notebooks are designed to supplement your learning and provide hands-on practice with real-world datasets and examples.
 
-This is my Partner's addition to the READMe.md
-
 ## Notebooks
 
 You can find the following notebooks in this repository:
@@ -18,6 +16,7 @@ You can find the following notebooks in this repository:
 - [Notebook 8: Descriptive Statistics](08-descriptive-statistics.ipynb)
 - [Notebook 9: Random Variables](09-random-variables.ipynb)
 - [Notebook 10: Hypothesis Testing](10-hypothesis-testing.ipynb)
+- [Notebook 11: Algorithm Optimization](11-algorithm-optimization.ipynb)
 
 Feel free to explore and review these notebooks at your own pace.
 
