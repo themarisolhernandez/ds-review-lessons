@@ -19,6 +19,7 @@ You can find the following notebooks in this repository:
 - [Notebook 11: Algorithm Optimization](11-algorithm-optimization.ipynb)
 - [Notebook 12: M.L. Ops](12-ml-ops.ipynb)
 - [Notebook 13: Intro. to SQL](13-intro-to-sql.ipynb)
+- [Notebook 14: Web Scraping](14-web-scraping.ipynb)
 
 Feel free to explore and review these notebooks at your own pace.
 
