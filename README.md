@@ -21,6 +21,7 @@ You can find the following notebooks in this repository:
 - [Notebook 13: Intro. to SQL](13-intro-to-sql.ipynb)
 - [Notebook 14: Web Scraping](14-web-scraping.ipynb)
 - [Notebook 15: API Requests](15-api-requests.ipynb)
+- [Notebook 16: Exploratory Data Analysis](16-exploratory-data-analysis.ipynb)
 
 Feel free to explore and review these notebooks at your own pace.
 
