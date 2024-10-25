@@ -24,6 +24,7 @@ You can find the following notebooks in this repository:
 - [Notebook 16: Exploratory Data Analysis](16-exploratory-data-analysis.ipynb)
 - [Notebook 17: Simple Linear Regression](17-simple-linear-regression.ipynb)
 - [Notebook 18: Multiple Linear Regression](18-multiple-linear-regression.ipynb)
+- [Notebook 19: Regularized Linear Regression](19-regularized-linear-regression.ipynb)
 - [Notebook 20: Logistic Regression](20-logistic-regression.ipynb)
 
 Feel free to explore and review these notebooks at your own pace.
